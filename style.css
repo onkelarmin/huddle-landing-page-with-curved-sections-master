@@ -372,6 +372,7 @@ h3,
 
 .newsletter__title {
   font-size: var(--fs-650);
+  text-transform: uppercase;
 }
 
 .newsletter__text {
