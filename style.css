@@ -235,7 +235,6 @@ h3,
 
 .hero {
   --_flow-space: 1.5em;
-  max-width: 63.5625rem;
   margin-top: clamp(7.25rem, calc(3.81rem + 17.19vw), 14.13rem);
   margin-inline: auto;
 }
@@ -249,6 +248,8 @@ h3,
 }
 
 .hero__img {
+  --_max-width: 63.5rem;
+
   margin-top: 7.5rem;
 }
 
