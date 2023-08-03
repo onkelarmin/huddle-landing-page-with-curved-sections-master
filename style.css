@@ -426,6 +426,7 @@ h3,
 @container (width>= 40em) {
   .newsletter__form {
     grid-template-columns: 1fr auto;
+    gap: 2.5rem;
   }
 }
 
